@@ -1,0 +1,4 @@
+app.log
+inspection_results.csv
+__pycache__/
+.env
